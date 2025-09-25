@@ -2,10 +2,9 @@
 Desarrollo de modelos de prima riesgo por coberturas en el sector del automóvil.
 
 Modelos_Prima_Riesgo_Autos
-|
-|-- Code
-|   |
-|   |-- Preproc_Data.ipynb: código de programación Python con el preprocesamiento de datos.
+
+* Code
+    * Preproc_Data.ipynb: código de programación Python con el preprocesamiento de datos.
 |
 |-- Data
     |
