@@ -1,7 +1,9 @@
 # Modelo Prima Riesgo Autos
-Desarrollo de modelos de prima riesgo por coberturas en el sector del automóvil.
 
-## <font color='orange'>Distribución de carpetas</font>
+## Descripción
+Repositorio sobre el desarrollo de modelos de prima riesgo por coberturas en el sector del automóvil.
+
+## Distribución de carpetas
 Modelos_Prima_Riesgo_Autos
 
 * Code
